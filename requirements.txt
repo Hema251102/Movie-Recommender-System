@@ -1,0 +1,6 @@
+# Required packages for Movie Recommendation System project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
